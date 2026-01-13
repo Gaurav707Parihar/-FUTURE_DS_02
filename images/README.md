@@ -1,2 +1,2 @@
-Dashboard Imgages
+Dashboard Images
 
